@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 🎓 Korea Aerospace University , Software Engineering 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangsuk">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Jangsukwoo" height="165">
