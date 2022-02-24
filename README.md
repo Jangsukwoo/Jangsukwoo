@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 # SeokwooJang 😉
 
-- 🎓 Korea AeroSpace University , Software Engineering 
+- 🎓 Korea Aerospace University , Software Engineering 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangsuk">
