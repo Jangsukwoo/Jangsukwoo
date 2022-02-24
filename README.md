@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱🥇🚅💊🌍📺🔵🍕 
+
 # SeokwooJang 😉
 
-- 🎓 Korea AeroSpace University , Software Engineering
-- 🌱 
-- 🥇 
-- 🚅
-- 💊 
-- 🌍 
-- 📺
-- 🔵
-- 🍕 
+- 🎓 Korea AeroSpace University , Software Engineering 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangsuk">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangsuk">
