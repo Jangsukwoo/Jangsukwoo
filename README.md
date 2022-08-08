@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🎓 Samsung Software Academy For Youth at Seoul (2018.12~2019.9)
 - 🎓 Samsung SDS Winter Algorithm at Seoul (2020.01~2020.01) 
 - 👯 코딩영재컴퓨터학원 Java & Algorithm at Seoul (2020.04 ~ 2020.05)
-- 🌍 2020 KaKao Summer Internship (Server) at DaumKakao Pangyo Office (2020.07 ~ 2020.08)
+- 🌱 2020 KaKao Summer Internship (Server) at DaumKakao Pangyo Office (2020.07 ~ 2020.08)
 - 🌍 Cafe24 Corp , SRE Development Team , Software Engineer at Seoul(2021.04 ~ 2022.01)
 - 🌍 Samsung Electronics , Management S/W SDN Part, Server Software Developer at Suwon (2022.01 ~ Current)
 
