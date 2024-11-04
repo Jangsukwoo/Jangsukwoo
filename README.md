@@ -27,14 +27,17 @@ Here are some ideas to get you started:
 - 👯 코딩영재컴퓨터학원 Java & Algorithm at Seoul (2020.04 ~ 2020.05)
 - 🌱 2020 KaKao Summer Internship (Server) at DaumKakao Pangyo Office (2020.07 ~ 2020.08)
 - 🌍 Cafe24 Corp , SRE Development Team , Software Engineer at Seoul(2021.04 ~ 2022.01)
-- 🌍 Samsung Electronics , Management S/W SDN Part, Server Software Developer at Suwon (2022.01 ~ Current)
+- 🌍 Samsung Electronics , Advanced R&D Team SMO Group SDN Part, Server Software Developer at Suwon (2022.01 ~ Current)
 
 # Certificate
 - 📫 정보처리기사
 - 📫 SQLD 
 - 📫 네트워크관리사 2급
 - 📫 한국사 1급
-- 📫 Samsung S/W Certificate Professional (In-company certi)
+- 📫 Samsung S/W Certificate Advanced 
+- 📫 Samsung S/W Certificate Professional
+- 📫 Samsung Software Associate Architect
+- 📫 CKA (Certified Kubernetes Administrator) 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangsuk">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Jangsukwoo" height="165">
